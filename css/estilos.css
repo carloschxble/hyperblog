@@ -41,3 +41,10 @@ body {
 #container h1 {
     font-size: 32px;
 }
+
+#footer p {
+    margin: 0;
+    background-color: #777;
+    color: #fff;
+    text-align: center;
+}
